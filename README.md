@@ -1,4 +1,4 @@
-# Secure AWS S3 Bucket with Terraform
+# Setup a Secure AWS S3 Bucket with Terraform
 
 This project sets up a secure Amazon S3 bucket using Terraform, implementing AWS security best practices. Features include bucket versioning, server-side encryption, and access logging.
 
